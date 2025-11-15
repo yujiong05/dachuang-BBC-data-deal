@@ -1,0 +1,76 @@
+标题: China's ex-UK ambassador clashes with 'AI godfather' on panel
+网址: https://www.bbc.co.uk/news/articles/cly7lneqj5xo
+
+正文内容:
+Fu Ying also expressed regret about the negative impact of tensions between the US and China on the progress of AI safety
+
+A former Chinese official poked fun at a major international AI safety report led by "AI Godfather" professor Yoshua Bengio and co-authored by 96 global experts â in front of him.
+
+Fu Ying, former vice minister of foreign affairs and once China's UK ambassador, is now an academic at Tsinghua University in Beijing.
+
+The pair were speaking at a panel discussion ahead of a two-day global AI summit starting in Paris on Monday.
+
+The aim of the summit is to unite world leaders, tech executives, and academics to examine AI's impact on society, governance, and the environment.
+
+Fu Ying began by thanking Canada's Prof Bengio for the "very, very long" document, adding that the Chinese translation stretched to around 400 pages and she hadn't finished reading it.
+
+She also had a dig at the title of the AI Safety Institute â of which Prof Bengio is a member.
+
+China now has its own equivalent; but they decided to call it The AI Development and Safety Network, she said, because there are lots of institutes already but this wording emphasised the importance of collaboration.
+
+The AI Action Summit is welcoming guests from 80 countries, with OpenAI chief executive Sam Altman, Microsoft president Brad Smith and Google chief executive Sundar Pichai among the big names in US tech attending.
+
+Elon Musk is not on the guest list but it is currently unknown whether he will decide to join them.
+
+A key focus is regulating AI in an increasingly fractured world. The summit comes weeks after a seismic industry shift as China's DeepSeek unveiled a powerful, low-cost AI model, challenging US dominance.
+
+DeepSeek: The Chinese AI app that has the world talking
+
+Is China's AI tool DeepSeek as good as it seems?
+
+The pair's heated exchanges were a symbol of global political jostling in the powerful AI arms race, but Fu Ying also expressed regret about the negative impact of current hostilities between the US and China on the progress of AI safety.
+
+"At a time when the science is going in an upward trajectory,  the relationship is falling in the wrong direction and it is affecting unity and collaboration to manage risks," she said.
+
+"It's very unfortunate."
+
+She gave a carefully-crafted glimpse behind the curtain of China's AI scene, describing an "explosive period" of innovation since the country first published its AI development plan in 2017, five years before ChatGPT became a viral sensation in the west.
+
+She added that "when the pace [of development] is rapid, risky stuff occurs" but did not elaborate on what might have taken place.
+
+"The Chinese move faster [than the west] but it's full of problems," she said.
+
+Fu Ying argued that building AI tools on foundations which are open source, meaning everyone can see how they work and therefore contribute to improving them, was the most effective way to make sure the tech did not cause harm.
+
+Most of the US tech giants do not share the tech which drives their products.
+
+China's former UK ambassador, Fu Ying, on stage at a panel discussion in Paris
+
+Open source offers humans "better opportunities to detect and solve problems",  she said, adding that "the lack of transparency among the giants makes people nervous".
+
+But Prof Bengio disagreed.
+
+His view was that open source also left the tech wide open for criminals to misuse.
+
+He did however concede that "from a safety point of view", it was easier to spot issues with the viral Chinese AI assistant DeepSeek, which was built using open source architecture, than ChatGPT, whose code has not been shared by its creator OpenAI.
+
+On Tuesday it is the turn of world leaders including French president Emmanuel Macron, India's PM Narendra Modi and US Vice President JD Vance to hold talks at the summit.
+
+Discussions will include how AI will impact the world of work and be used in the public interest, and how to mitigate its risks.
+
+A new $400m partnership between several countries has also been announced, aimed at supporting AI initiatives which serve the public interest, such as healthcare.
+
+In a BBC interview, UK technology secretary Peter Kyle said he thought it would be dangerous for the UK to fall behind in its adoption of the tech.
+
+Dr Laura Gilbert, who advises the government on AI, said she believed it was essential to maintain the NHS because of the efficiencies it promised. "How are you going to fund the NHS without grabbing AI?" she asked.
+
+Matt Clifford, who wrote the UK's AI Action Plan which the government has accepted in full, warned that the tech would be "more radical" than when typing was replaced with word processing, as computers first entered the workplace.
+
+"The industrial revolution was the automation of physical labour; AI is the automation of cognitive labour," said Marc Warner, the boss of the AI firm Faculty. He added that he did not believe his two-year-old child would "have a job as we know them today."
+
+What are the challenges facing the government's AI action plan?
+
+图片列表:
+1. 4ef5dfb281724fc3ed55f220720e14ec.jpg - Image caption, Fu Ying also expressed regret about the negative impact of tensions between the US and China on the progress of AI safety
+2. c7f75470f2e7a6f9e5291eb861544bcb.jpg - Image caption, China's former UK ambassador, Fu Ying, on stage at a panel discussion in Paris
+3. 95c96378b21479a70f2398b594d53596.jpg - 无说明

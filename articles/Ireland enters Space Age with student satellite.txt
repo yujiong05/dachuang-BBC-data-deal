@@ -1,0 +1,132 @@
+标题: Ireland enters Space Age with student satellite
+网址: https://www.bbc.co.uk/news/articles/cyj22gmjy7ro
+
+正文内容:
+PhD physics student Laura Cotter holding a to-scale replica of EIRSAT-1
+
+At a glance
+
+EIRSAT-1, a student-built CubeSat, has been successfully launched into space, officially becoming Ireland's first satellite
+
+The student-led project involved more than 50 students from University College Dublin, under guidance of the European Space Agency
+
+It was deployed into orbit from a Falcon 9 SpaceX rocket on Friday evening
+
+The Irish government has described the history-making project as a "major milestone"
+
+Researchers hope young scientists are feeling inspired after Ireland's first satellite was successfully launched into space.
+
+Constructed by students from University College Dublin (UCD) with the support of the European Space Agency (ESA), EIRSAT-1 is a two-unit CubeSat [miniature cube satellite] equipped with three experiments.
+
+The project has been called a "major milestone" for Ireland's emerging space sector.
+
+Taoiseach (Irish Prime Minister) Leo Varadkar described it as a "hugely important Irish project (that) will break new frontiers for space research and education".
+
+The satellite was launched aboard SpaceX's Falcon 9 rocket from Vandenberg Space Force Base in California in the United States on Friday evening.
+
+The reusable, two-stage rocket carried a total of 25 spacecraft into orbit.
+
+Allow X content?
+
+This article contains content provided by X. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Xâs cookie policy, external and privacy policy, external before accepting. To view this content choose âaccept and continueâ.
+
+A flagship project of UCD C-Space, EIRSAT-1 (Educational Irish Research Satellite 1) is the Irish Republic's first satellite.
+
+The project has been primarily student-led, with more than 50 UCD students - including nine PhDs candidates - participating over the course of six years, not only from the physics department but also mathematical, mechanical and computer science degree programmes.
+
+Students spent about 20,000 hours testing and problem solving ahead of EIRSAT-1âs voyage into space. , external
+
+EIRSAT-1 was successfully injected into low Earth orbit at about 20:00 GMT
+
+The satellite is not much bigger than a carton of milk, but that's no reflection of its power, according to PhD student CuÃ¡n de Barra, who is is responsible for testing and operations.
+
+"It's been a steep learning curve... no one knew how to build or launch a satellite," Mr de Barra told BBC News NI ahead of the launch.
+
+The project has been a "steep learning curve" according to one researcher
+
+He described the launch as a "huge, complex project" that has provided a "unique, transferable skill set" to those involved, with many learners now embarking on careers within the field.
+
+Mr de Barra is hoping the success of EIRSAT-1 will inspire children and help accelerate the Irish space industry.
+
+"We're trying to emphasise to the next generation - and show what's possible at UCD - opportunities are available for young scientists."
+
+Students spent about 20,000 hours testing and problem solving ahead of the launch
+
+EIRSAT-1 is part of the ESA academy's Fly Your Satellite! initiative - providing university students with comprehensive training, mentoring, and hands-on guidance for the complete life cycle of a professional satellite project - from design and construction to testing, launch, and operations.
+
+The launch opportunity was also facilitated by the ESA.
+
+âI would like to wholeheartedly congratulate the EIRSAT-1 team for this successful launch and the start of Irelandâs first exciting adventure in orbit,â said Josef Aschbacher, ESA director general.
+
+Why are people talking about a new space race?
+
+Watch: The moment SpaceX tests its powerful rocket system
+
+âIâd also like to thank UCD for joining forces with ESA towards a common educational objective: boosting the skills of the young generation.
+
+âItâs only by building capacity that we can make our space ambitions become a reality, for Ireland and for Europe."
+
+Speaking after the launch, UCD C-Space manager Dr Ronan Wall said: âItâs incredibly exciting and deeply satisfying to have finally joined other nations across Europe and the world that are positioned to do great research and innovation from our own spacecraft."
+
+A poem, All Ways Home, written by 12 Irish schoolchildren, is engraved on the outer cover of the antenna module in a formation like a spiral galaxy
+
+In the early stages of the EIRSAT-1 project, a dedicated team from Queen's University Belfast (QUB) also played a "pivotal role in collaboration with UCD", a spokesperson said.
+
+QUB's involvement primarily focused on supporting the satellite's mechanical and thermal design aspects.
+
+"This collaboration was instrumental in laying the groundwork for EIRSAT-1, marking a significant contribution to Ireland's first venture into satellite technology," the spokesperson added.
+
+Recognising the project as an official space mission last year, the Irish government said its successful launch marked a âa major milestoneâ for the state's growing space industry.
+
+Irish Enterprise Minister Neale Richmond offered his "heartfelt congratulations" to the UCD academic and student team involved in the mission.
+
+"History was made here today, and everyone should be proud of the part they played in this milestone for Ireland and its space sector,â he added.
+
+Members of the EIRSAT-1 team pictured at the European Space Research and Technology Centre in the Netherlands
+
+Prof Lorraine Hanlon, director of EIRSAT-1 and the UCD Centre for Space Research, said the launch delivered the "thrilling result of Ireland in space" and represented "the culmination of a lot of work by a young team and a huge amount of support by the Irish space industry".
+
+âThe next step now is to get used to operating our new spacecraft and get the maximum research and training out of it.â
+
+EIRSAT-1 will carry out three experiments and report data back to its command centre at UCD
+
+EIRSAT-1 has carried three experiments into low-Earth orbit (100-1,000km above Earth) and will report data back to researchers working in a command centre at UCD.
+
+Among these experiments is a GMOD gamma ray burst detector, designed to investigate some of the most luminous explosions in the universe.
+
+Northern Ireland scientist's role in black hole shock-waves find
+
+The rays researchers aim to observe may originate from various sources such as stars exploding at the end of their life cycles, or the merging of black holes.
+
+Allow X content?
+
+This article contains content provided by X. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Xâs cookie policy, external and privacy policy, external before accepting. To view this content choose âaccept and continueâ.
+
+EIRSAT-1 is also conducting tests on satellite protection in space, as well as an on-board navigation system.
+
+Students are now excited to receive data reports from the satellite and continue their research.
+
+"We're excited to get off the ground, no puns intended," CuÃ¡n de Barra said.
+
+"I can't wait to speak to it for the first time."
+
+The moment SpaceX tests its powerful rocket system. Video, 00:00:35The moment SpaceX tests its powerful rocket system
+
+NI scientist's role in cosmic shock-waves discovery
+
+Why are people talking about a new space race?
+
+US-China rivalry spurs investment in space tech
+
+图片列表:
+1. 090a03379936f0f60793ce5a64ffdee0.jpg - Image caption, PhD physics student Laura Cotter holding a to-scale replica of EIRSAT-1
+2. 52d5f8acae7106cf4732603e50913343.jpg - Image caption, EIRSAT-1 was successfully injected into low Earth orbit at about 20:00 GMT
+3. 163cbe69e6bc7c2d6dbadba255efd9dc.jpg - Image caption, The project has been a "steep learning curve" according to one researcher
+4. af5185f66222ea64d81a0552bf23ddf1.jpg - Image caption, Students spent about 20,000 hours testing and problem solving ahead of the launch
+5. 184d4b7576adbf286089f3ddf527a127.jpg - Image caption, A poem, All Ways Home, written by 12 Irish schoolchildren, is engraved on the outer cover of the antenna module in a formation like a spiral galaxy
+6. 31a6ac38d1d85b855ae270342ed1510d.jpg - Image caption, Members of the EIRSAT-1 team pictured at the European Space Research and Technology Centre in the Netherlands
+7. 459792da748360a3dca58ec425fb5694.jpg - Image caption, EIRSAT-1 will carry out three experiments and report data back to its command centre at UCD
+8. 7d9a4c4d465d6812571d59a70b3c573e.jpg - 无说明
+9. b3ed2ea77859185cda6ec62974a90ce3.jpg - 无说明
+10. 15a0771ca3bff4912e3712b9b334349e.jpg - 无说明
+11. ef81bd295e78627539296c33f06890f4.jpg - 无说明

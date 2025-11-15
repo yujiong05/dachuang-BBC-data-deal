@@ -1,0 +1,11 @@
+标题: micro:bit: Mission to Mars - Live Lesson - Amy Mather's walkthrough
+网址: https://www.bbc.co.uk/teach/live-lessons/microbit-mission-to-mars-live-lesson-amy-mathers-walkthrough/zmn7hbk
+
+正文内容:
+Check out the Gladiators â BBC micro:bit Live Lesson on Tuesday 15 October, 11:00 on this page.
+
+Amy Mather, Digital Girl of the Year 2013, talks us through the meteorite game on the micro:bit: Mission to Mars - Live Lesson.
+
+Please note that this resource was developed in 2016 and some of the links to the previous micro:bit code editors on the original printed resources may no longer work. We have removed the links to the hex files, but a number of the code projects on the activity sheets can be replicated using the new MakeCode editor available on micro:bit.org, so these sheets are still available for your information.
+
+Download the activity sheet for this clip here:

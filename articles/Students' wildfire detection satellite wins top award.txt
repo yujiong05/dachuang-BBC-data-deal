@@ -1,0 +1,43 @@
+标题: Students' wildfire detection satellite wins top award
+网址: https://www.bbc.co.uk/news/articles/c0jw5q8n39jo
+
+正文内容:
+University students Mya White and Terry Savva work on the Darwin satellite project
+
+A satellite designed to detect and track wildfires from space has won a prize for the developers at the University of Surrey.
+
+The Darwin project won the best design award in the UK Students for the Exploration and Development of Space competition.
+
+The university's Peryton Space department beat teams from around the country for the second year in a row with a budget of just Â£500.
+
+Peryton team leader Mya White said: "We used a thermal camera to detect heat spots and an optical camera to determine distance so that we could calibrate the temperature readings."
+
+Darwin â Detection, Analysis and Research for Wildfire Investigation Network â measures just 10cm x 10cm x 30cm.
+
+Ms White said the team developed software to split an area being monitored into a grid "so we could pinpoint exactly where the simulated fires were".
+
+Surrey's Peryton Space team has won a prestigious satellite design competition
+
+The student team has enjoyed other success this year, taking first prize in Orbit Servicing and Manufacturing competition.
+
+It combined their skills in design, engineering and business.
+
+It was also runner up in a national student rocketry competition while the team also impressed the judges at the Race2Space National Propulsion competition, creating and testing rocket engines.
+
+Harvey Nixon, who leads the research and development branch of Peryton Space, said the team comprises students from all backgrounds and disciplines "which ensures we have a range of expertise, and our members get invaluable experience ready for careers in the space sectorâ.
+
+Some of the students are now working on the Jovian-1 satellite project, which will be controlled from the university's ground station at the Surrey Space Centre.
+
+Peryton Space, University of Surrey
+
+UK Students for the Exploration and Development of Space
+
+Surrey scientists to help build space fuel system
+
+University to help spot illegal fishing from space
+
+图片列表:
+1. ec612f00a6069c330929888786e20922.jpg - Image caption, University students Mya White and Terry Savva work on the Darwin satellite project
+2. 4a11697cd6aac7cea82b20f810e26071.png - Image caption, Surrey's Peryton Space team has won a prestigious satellite design competition
+3. 2bcaf57abf269343b61b9688b993a809.jpg - 无说明
+4. da288099ae0f47318d988c62e9aa6157.jpg - 无说明

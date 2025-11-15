@@ -1,0 +1,69 @@
+标题: Israel's Beresheet Moon mission gets under way
+网址: https://www.bbc.co.uk/news/science-environment-47313486
+
+正文内容:
+The first privately financed mission to the Moon has lifted off from Cape Canaveral in Florida.
+
+The Israeli robot was put on a path to the lunar body by a Falcon rocket - a trip that will take two months.
+
+Beresheet, as it's known, will try to land on the lunar surface, take some pictures and conduct some experiments.
+
+That's a challenging prospect. Only government space agencies from the US, Russia and China have previously managed soft touchdowns.
+
+Allow X content?
+
+This article contains content provided by X. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. You may want to read Xâs cookie policy, external and privacy policy, external before accepting. To view this content choose âaccept and continueâ.
+
+SpaceIL, the non-profit behind the project, hopes Beresheet ("In the beginning" in Hebrew) will prove an inspiration to all those who follow its progress.
+
+"Exactly in the moment that the Falcon 9 was crossing the horizon, the Moon rose at Cape Canaveral - which I think was quite symbolic to this journey of getting the first Israeli rocket ship to the Moon," SpaceIL co-founder Yonatan Winetraub told BBC News.
+
+This video can not be played
+
+SpaceIL Co-founder Yonatan Winetraub: "This is the first privately funded interplanetary mission"
+
+Beresheet grew out of the Google Lunar XPRIZE, which offered financial incentives in 2007 to any non-government-funded team that could pull off a Moon landing.
+
+None of the groups that entered the competition managed to meet its deadlines and the offer of prize money was withdrawn, but several of the participants did promise to keep working on their ideas, SpaceIL among them.
+
+If the US$100m Beresheet craft can get down safely, it will take photos to send back to Earth and engage in some magnetic investigations. The targeted landing site is in a northern-hemisphere lava plain called Mare Serenitatis, where magnetic anomalies are known to exist.
+
+The robot's onboard magnetometer device will acquire measurements -  and not just in one location, because Beresheet will, some hours after landing, hop to a new spot.
+
+Prof Oded Aharonson, of the Weizmann Institute, leads Beresheet's science team. The Moon does not generate a global magnetic field, but on the surface, various areas or rocks are magnetic at different levels.
+
+"If we can measure the magnetism of these rocks, we can begin to understand how and when this magnetism arose," the prof explained.
+
+Mr Winetraub added: "Also, we have another instrument in a collaboration with Nasa. That is a retroreflector (a device that reflects light back to its source) and that will join an array of reflectors that was already put on the Moon by the Apollo missions, and that will be used for their purposes to measure distances and lunar dynamics."
+
+The spacecraft will keep enlarging its path around Earth until it's captured by the Moon's gravity
+
+It's planned for Beresheet to keep operating for about two days on the lunar surface.
+
+The success of the mission will depend in large part on the spacecraft's UK-sourced Leros engine.
+
+The British-built engine has been modified for the lunar mission
+
+This type of power unit, developed by Nammo in Wescott, Buckinghamshire, is normally found firing on geostationary telecommunications satellites as they lift themselves to the right part of the sky over Earth after coming off the top of a launch rocket.
+
+But Nammo's engineers have adapted the Leros for Beresheet, shortening its nozzle and increasing its thrust.
+
+The engine will do the job of pushing the robot out to the Moon from Earth, making sure the spacecraft is captured in lunar orbit, and then taking the probe gently down to the surface. The Leros unit will also execute the 500m hop across Mare Serenitatis.
+
+One of the attractions of the Leros is that it can handle multiple, so-called âhot re-startsâ, says Nammo propulsion team leader Rob Westcott.
+
+"Normally, when people use our engines they will start them up and leave them running for hours at a time before shutting them down for perhaps days, even weeks," he explained.
+
+"This gives an engine plenty of time to cool down. In this case, however, SpaceIL wanted to fire up the engine, stop it, and then fire it again after just a few seconds while it is still very hot. They need this for the landing and hopping phases."
+
+Whatever happens, Beresheet will go down as a pathfinder. Other privately funded lunar spacecraft are set to follow it.
+
+Both the US and European space agencies have stated their intention to use commercial landers to deliver some of their scientific payloads to the Moon.
+
+Jonathan.Amos-INTERNET@bbc.co.uk, external and follow me on Twitter: @BBCAmos, external
+
+图片列表:
+1. 23a564d888379c899188ccb264da8033.jpg - 无说明
+2. fcac915132612901810d79e1fef40446.png - 无说明
+3. 3216005a37998a7094d2312020bf6fd2.jpg - Image caption, The spacecraft will keep enlarging its path around Earth until it's captured by the Moon's gravity
+4. c0c47d7aa0764110d26b21dc3eba33b6.png - Image caption, The British-built engine has been modified for the lunar mission

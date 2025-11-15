@@ -1,0 +1,53 @@
+标题: Satellite captures first-of-a-kind cloud image
+网址: https://www.bbc.co.uk/news/articles/ce9317wk1v7o
+
+正文内容:
+The dark red represents the highest density of ice crystals, snowflakes and raindrops
+
+A never-seen-before space image of the interior structure of a storm cloud has been released by the European and Japanese space agencies.
+
+Their Earthcare satellite used a Doppler radar to capture the view.
+
+The data reveals the density of ice, snow, and rain in the cloud, as well as the speed with which these particles are falling to Earth.
+
+The novel Earthcare mission was launched in May to better understand how clouds influence the climate.
+
+Scientists expect the â¬850m (Â£725m) spacecraft's observations to also improve weather forecasts.
+
+The type of image it produces is routinely acquired by research planes and from ground installations, but not from orbit.
+
+"I am absolutely thrilled to see the first radar images from Earthcare - for the first time ever we can measure the fall speeds of ice crystals, raindrops and snowflakes around the whole globe, not just at a handful of ground-based radar stations," said Dr Robin Hogan, a mission scientist from the European Centre for Medium-Range Weather Forecasts (ECMWF).
+
+"This is a great technological achievement: we are using the tiny Doppler shift in the radar echo to infer fall speeds of only around one metre-per-second, and this is from a satellite that is hurtling round its orbit at 7km/s," he told BBC News.
+
+The sample cloud was observed over the Pacific Ocean, just east of Japan, on 13 June.
+
+Satellite to probe mystery of clouds and climate
+
+Pioneering European satellite burns up over Pacific
+
+Movies capture lightning spectacle across Earth
+
+Artwork of the Earthcare satellite flying 400km (250 miles) above the Earth
+
+It's possible to see in the image where exactly the different phases of water are being held. Larger particles are in the centre of the cloud.
+
+Velocity measurements show the ice crystals and snowflakes are either suspended high up or are falling slowly. There is a clear boundary at an altitude of about 5km where the ice and snow melts, to form water droplets that then fall as rain.
+
+In describing the density, distribution by size and movement of the various particles, scientists hope to gain clearer insights into the physics that drives cloud formation and behaviour.
+
+One of those sought after insights is the precise role played by clouds in a warming world.
+
+Some low-level clouds are known to cool the planet by reflecting sunlight straight back out into space, while others at high altitude work much like a blanket and trap the Sun's energy.
+
+The Earthcare mission will endeavour to see precisely where the balance lies.
+
+This is one of the great uncertainties in the computer models that are used to forecast how the climate will respond to increasing levels of greenhouse gases.
+
+"This is only the beginning," said Dr Hogan. "There are three other instruments on Earthcare that are being turned on one-by-one and which, together with the radar, we will use to uncover the mysteries of clouds and their role in the climate system.
+
+"Many of the Earthcare team, including myself, have been preparing for the launch of this satellite for over 20 years, so it is unbelievably exciting when the data finally start to arrive," he told BBC News.
+
+图片列表:
+1. 6eedd1cee9bef6ec75d3b21c69d31a95.jpg - Image caption, The dark red represents the highest density of ice crystals, snowflakes and raindrops
+2. 6d3fa7b6121dd04c8a31e9e423d476bc.jpg - Image caption, Artwork of the Earthcare satellite flying 400km (250 miles) above the Earth
